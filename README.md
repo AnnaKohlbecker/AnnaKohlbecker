@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on ML projects. Currently focused on ChatBots with LLMs.
 - 📫 How to reach me: aipskohlbecker@gmail.com
-- ⚡ Fun fact: Obsessed with kidney beans.
+- ⚡ Fun fact: Obsessed with kidney beans💕
   
 <!--
 **AnnaKohlbecker/AnnaKohlbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
