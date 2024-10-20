@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on ML projects.
-- 📫 How to reach me: aipskohlbecker@gmail.com
+- 📫 How to reach me: annakohlbecker@gmail.com
   
 <!--
 **AnnaKohlbecker/AnnaKohlbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
